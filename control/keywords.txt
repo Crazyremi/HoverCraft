@@ -1,0 +1,9 @@
+JoyStickBoard	KEYWORD1
+upButton		KEYWORD2
+downButton		KEYWORD2
+leftButton		KEYWORD2	
+rightButton		KEYWORD2
+XVal			KEYWORD2
+YVal			KEYWORD2
+SWIsPressed		KEYWORD2
+getData			KEYWORD2
